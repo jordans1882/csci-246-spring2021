@@ -2,6 +2,8 @@
 
 This repository is for class materials for Discrete Structures, Fall 2021, taught by Prof. Fasy.
 
+blah blah blah alsldskdfj jasd;l;k fjsda
+
 Course Catalog Description: This course covers logic, discrete probability,
 recurrence relations, Boolean algebra, sets, relations, counting, functions,
 maps, Big-O notation, proof techniques including induction, and proof by
